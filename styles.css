@@ -1,0 +1,54 @@
+.flashy {
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+
+.best {
+  font-family: cursive;
+  background-color: yellow;
+  padding-bottom: 30px;
+}
+
+h1,h2,h3,h4 {
+  color: #331a00;
+  text-align: center;
+  font-family: cursive;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+div {
+  width:25%;
+  float: left;
+}
+
+h1 {
+  font-size: 3em;
+
+}
+
+h2 {
+  font-size: 2em;
+
+}
+
+h3 {
+  font-size: 1.75em;
+
+}
+
+h4 {
+  font-size: 1.5em;
+
+}
+
+p {
+  width: 50%;
+  margin: auto;
+  font-size: 1em;
+  padding-bottom: 10px
+}
