@@ -11,7 +11,7 @@ HTML, CSS, Git, Github
 *[Epicodus](http://epicodus.com) Intro to Programming Week 1 Pair Project with Addison Nishijima: Build a website for a cupcake shop to practice using CSS styles.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-BoringLecture)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-CupcakeShop)
 
 __OR__
 * Clone project to your computer
